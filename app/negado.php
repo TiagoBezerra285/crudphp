@@ -1,0 +1,1 @@
+﻿Acesso negado ao sistema!
